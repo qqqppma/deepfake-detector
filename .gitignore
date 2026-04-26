@@ -1,0 +1,25 @@
+# 데이터
+data/
+
+# 모델 가중치
+models/
+
+# 테스트 샘플
+test_samples/
+
+# Jupyter 체크포인트
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# 환경 설정
+.env
+*.env
+
+# OS 파일
+.DS_Store
+Thumbs.db
